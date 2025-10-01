@@ -4,19 +4,19 @@ My name is Marin Nagy and digital creation is a hobby of mine, so is programming
 
 ## Highlited projects
 <a href="https://github.com/marinoo3/secondemain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=secondemain&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Seconde Main" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=secondemain&show_icons=true&line_height=27&theme=github_dark" alt="Seconde Main" />
 </a>
 
 <a href="https://github.com/marinoo3/cr7to1000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=cr7to1000&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cr7to1000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=cr7to1000&show_icons=true&line_height=27&theme=github_dark" alt="cr7to1000" />
 </a>
 
 <a href="https://github.com/marinoo3/TricountAPI-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=TricountAPI-python&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="tricount api python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=TricountAPI-python&show_icons=true&line_height=27&theme=github_dark" alt="tricount api python" />
 </a>
 
 <a href="https://github.com/marinoo3/m2_enedis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=m2_enedis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="m2 enedis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=m2_enedis&show_icons=true&line_height=27&theme=github_dark" alt="m2 enedis" />
 </a>
 
 <br>
