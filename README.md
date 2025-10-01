@@ -37,7 +37,7 @@ My name is Marin Nagy and digital creation is a hobby of mine, so is programming
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="tableau" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="power bi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="power bi" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vs code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="macos" width="40" height="40"/>
 </div>
