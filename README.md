@@ -24,7 +24,8 @@ My name is Marin Nagy and digital creation is a hobby of mine, so is programming
 ##### I've developed skills by working on professional, academic, and personal projects:
 - **Data Analysis** with tools like `Tableau`, `PowerBI` and `plotly`
 - **MLOps** with `Docker`, `Flask` and `Koyeb`
-- **Machine Learning** with `Python`, `R`, `KNIME` and `Pytorch`
+- **Machine Learning** with `Python`, `R`, `KNIME` and `scikit-learn`
+- **Deep Learning** with `Pytorch` and `Tensorflow`
 - **Computer Vision** with `OpenCV`, `YOLO`, `DepthAnything`
 
 ## Languages & Frameworks
