@@ -43,7 +43,7 @@ I've developed skills by working on professional, academic, and personal project
 ___
 Feel free to reach out to me for collaborations or discussions!
 
-[![Static Badge](https://img.shields.io/badge/Get_in_touch-email?style=flat&logo=minutemailer&logoColor=white&label=Email&color=6aa6f8)](https://mailto%3Amarinnagy74%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/Get_in_touch-email?style=flat&logo=minutemailer&logoColor=white&label=Email&color=6aa6f8)](https://mailto%3Ahello%40marinnagy.com)
 [![Static Badge](https://img.shields.io/badge/My_profile-linkedin?style=flat&logoColor=white&label=LinkedIn&color=6aa6f8)](https://www.linkedin.com/in/marin-nagy/)
 
 
