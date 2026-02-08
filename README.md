@@ -3,21 +3,10 @@
 My name is Marin Nagy and digital creation is a hobby of mine, so is programming! I am currently in my final year of a Master's degree in Data Science, specializing in machine learning and MLOps, with a strong interest in computer vision.
 
 ## Highlited projects
-<a href="https://github.com/marinoo3/secondemain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=secondemain&show_icons=true&line_height=27&theme=github_dark" alt="Seconde Main" />
-</a>
-
-<a href="https://github.com/marinoo3/cr7to1000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=cr7to1000&show_icons=true&line_height=27&theme=github_dark" alt="cr7to1000" />
-</a>
-
-<a href="https://github.com/marinoo3/TricountAPI-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=TricountAPI-python&show_icons=true&line_height=27&theme=github_dark" alt="tricount api python" />
-</a>
-
-<a href="https://github.com/marinoo3/m2_enedis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marinoo3&repo=m2_enedis&show_icons=true&line_height=27&theme=github_dark" alt="m2 enedis" />
-</a>
+- [NaturalJob](https://github.com/marinoo3/NaturalJob): Application de recherche d'emploi propulsée par NLP et LLM
+- [me.exe](https://github.com/marinoo3/me.exe): Chatbot RAG personnel, utilisant des transformers et le modèle LLM Mistral
+- [Seconde Main](https://github.com/marinoo3/SecondeMain): Système de gestion des produits pour une TPE
+- [Enedis](https://github.com/marinoo3/m2_enedis): Collecte massive de données et API REST
 
 <br>
 
