@@ -3,14 +3,14 @@
 My name is Marin Nagy and digital creation is a hobby of mine, so is programming! I am currently in my final year of a Master's degree in Data Science, specializing in machine learning and MLOps, with a strong interest in computer vision.
 
 ## Highlited projects
-- [NaturalJob](https://github.com/marinoo3/NaturalJob): Application de recherche d'emploi propulsée par NLP et LLM
-- [me.exe](https://github.com/marinoo3/me.exe): Chatbot RAG personnel, utilisant des transformers et le modèle LLM Mistral
-- [Seconde Main](https://github.com/marinoo3/SecondeMain): Système de gestion des produits pour une TPE
-- [Enedis](https://github.com/marinoo3/m2_enedis): Collecte massive de données et API REST
+- [NaturalJob](https://github.com/marinoo3/NaturalJob): Job search application powered by NLP and LLMs
+- [me.exe](https://github.com/marinoo3/me.exe): Personal RAG chatbot, Using transformers and Mistral LLM
+- [Seconde Main](https://github.com/marinoo3/SecondeMain): Product management system for small company
+- [Enedis](https://github.com/marinoo3/m2_enedis): Mass data collection and REST API
 
 <br>
 
-##### I've developed skills by working on professional, academic, and personal projects:
+I've developed skills by working on professional, academic, and personal projects:
 - **Data Analysis** with tools like `Tableau`, `PowerBI` and `plotly`
 - **MLOps** with `Docker`, `Flask` and `Koyeb`
 - **Machine Learning** with `Python`, `R`, `KNIME` and `scikit-learn`
