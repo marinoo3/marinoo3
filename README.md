@@ -5,6 +5,7 @@ My name is Marin Nagy and digital creation is a hobby of mine, so is programming
 ## Highlited projects
 - [NaturalJob](https://github.com/marinoo3/NaturalJob): Job search application powered by NLP and LLMs
 - [me.exe](https://github.com/marinoo3/me.exe): Personal RAG chatbot, Using transformers and Mistral LLM
+- [DiagnoSys](https://github.com/4xel-C/SISE_DiagnoSys): LLM-Powered Tool for Fast, Direct Feedback on Medical Diagnoses During Consultations
 - [Seconde Main](https://github.com/marinoo3/SecondeMain): Product management system for small company
 - [Enedis](https://github.com/marinoo3/m2_enedis): Mass data collection and REST API
 
